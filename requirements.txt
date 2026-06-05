@@ -1,0 +1,26 @@
+# Python dependencies for the indie publishing pipeline.
+#
+# Install:    pip install -r requirements.txt
+# Tested on:  Python 3.10+
+#
+# Also requires (install via system package manager, not pip):
+#   - pandoc    (apt install pandoc  /  brew install pandoc)
+#   - libreoffice [optional, for docx -> PDF conversion in print pipeline]
+#       (apt install libreoffice  /  brew install --cask libreoffice)
+
+# Core PDF + image manipulation
+pypdf>=4.0
+Pillow>=10.0
+PyPDF2>=3.0           # used by some validators alongside pypdf for compatibility
+
+# Word document reading + writing
+python-docx>=1.1
+
+# EPUB packaging (used as a helper in some test paths)
+ebooklib>=0.18
+
+# YAML metadata files
+PyYAML>=6.0
+
+# Optional: PDF rendering for the validators that inspect content
+pdfplumber>=0.10

@@ -1,0 +1,85 @@
+{
+    "_comment_": "Configuration for generate_back_cover.py. Replace placeholder text with your book's content.",
+
+    "trim_width": 5.5,
+    "trim_height": 8.5,
+    "dpi": 300,
+
+    "bg_color": [0, 0, 0],
+    "text_color": [210, 195, 165],
+    "muted_color": [170, 155, 130],
+    "accent_color": [248, 227, 192],
+
+    "font_serif": "/usr/share/fonts/truetype/google-fonts/Lora-Variable.ttf",
+    "font_italic": "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf",
+
+    "margin_top": 0.4,
+    "margin_bottom": 0.45,
+    "margin_sides": 0.4,
+
+    "hook": {
+        "lines": [
+            "Your back-cover hook headline.",
+            "An optional italic second line."
+        ],
+        "size_pt": 14,
+        "italic_line_2": true
+    },
+
+    "blurb": [
+        "First blurb paragraph. This is the main pitch for your book — 2 to 3 sentences that set up the problem your book solves or the question it answers.",
+        "Second blurb paragraph. Continue building the case. Include any high-credibility anchors (lineage, credentials, comparable book sales figures)."
+    ],
+
+    "pull_quotes": [
+        {
+            "quote": "A short, evocative pull quote from your book.",
+            "attribution": "From Chapter 1"
+        },
+        {
+            "quote": "A second pull quote — keep these short, 1 sentence ideal.",
+            "attribution": "From the closing chapter"
+        }
+    ],
+
+    "bullets_heading": "Inside this book",
+    "bullets": [
+        "First key point — what the reader will learn",
+        "Second key point — a specific framework or concept",
+        "Third key point — concrete benefit or insight",
+        "Fourth key point — optional"
+    ],
+
+    "cta_lines": [
+        "Continue at your-website.com",
+        "Subhead under the CTA — optional second line"
+    ],
+
+    "author_bio": "Your author bio — 2-3 sentences. Lead with the one credential that distinguishes you from other authors in your category.",
+
+    "author_photo": null,
+
+    "barcode_position": "bottom-right",
+    "barcode_width_in": 1.47,
+    "barcode_height_in": 1.18,
+    "barcode_margin_in": 0.55,
+    "barcode_path": "barcode.png",
+
+    "bisac": "BISAC Category / Subcategory",
+    "price": "$XX.XX USA    $XX.XX CAN",
+    "imprint": "Your Imprint Name",
+
+    "diya_accent_path": null,
+
+    "blurb_size_pt": 9.5,
+    "quote_size_pt": 9.5,
+    "attribution_size_pt": 8,
+    "bio_size_pt": 9,
+    "footer_size_pt": 7.5,
+    "bullets_heading_size_pt": 10,
+    "bullets_size_pt": 9,
+    "cta_size_pt": 9.5,
+    "cta_color": [200, 175, 120],
+    "use_dividers": false,
+    "section_gap_lines": 0.3
+}

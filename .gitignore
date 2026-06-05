@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+
+# Test outputs / user-supplied files (this repo is a toolkit, not a content repo)
+*.epub
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.tiff
+output/
+review/
+build/
+
+# But DO keep example assets if any are committed
+!examples/**/*.png
+!examples/**/*.jpg
+
+# Logs
+*.log
+
+# Local notes
+NOTES.md
+TODO.md
+SCRATCH.md

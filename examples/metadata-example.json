@@ -1,0 +1,33 @@
+{
+    "_comment_": "Configuration for validate_metadata.py — your full KDP metadata in one file.",
+
+    "title": "Your Book Title",
+    "subtitle": "Your Subtitle — Optional Second Line",
+
+    "author_first": "FirstName",
+    "author_last": "LastName",
+
+    "description": "Your KDP description, up to 4000 characters. Allowed HTML tags: <br> <b> <i> <em> <strong> <ol> <ul> <li> <h4> <h5> <h6> <p>. No URLs. No price claims. No comp-author lists. No 'new release' or 'launching' language. The validator will catch most of these issues.",
+
+    "keywords": [
+        "keyword phrase one",
+        "keyword phrase two",
+        "keyword phrase three",
+        "keyword phrase four",
+        "keyword phrase five",
+        "keyword phrase six",
+        "keyword phrase seven"
+    ],
+
+    "categories": [
+        "Books > Fiction > Literary",
+        "Books > Self-Help > Personal Growth",
+        "Books > Politics & Social Sciences > Philosophy"
+    ],
+
+    "isbn": "978-X-XXXXXXX-X-X",
+    "price_usd": 14.99,
+    "page_count": 250,
+    "paper_type": "bw_white",
+    "trim": "5.5x8.5"
+}
