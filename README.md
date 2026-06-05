@@ -4,6 +4,10 @@
 
 > **First time here? Read [STORY.md](./STORY.md) first.** It tells the full story of why this toolkit exists — the publisher quotes ($200 vanity packages with three cover options, Reedsy at $8,000), the Reddit horror stories, and the 15 specific production problems hit during a real book launch. Each script in this repo solves one of them.
 >
+> **Hit a specific KDP error?** Jump to [FAQ.md](./FAQ.md). Common problems with exact fixes — broken TOC link rejection, spine text too close to edges, A+ Content newline limits, BISAC code selection, and more.
+>
+> **Trying to figure out if this is for you?** See [USE_CASES.md](./USE_CASES.md). Eight specific author profiles (first-time nonfiction, spiritual/self-help, illustrated books, rejected-by-KDP, deadline-driven, developer-leaning, vanity-press-suspicious, cost-comparing) with the exact toolkit features that map to each.
+>
 > **Forking this and want to push it as your own repo?** See [SETUP.md](./SETUP.md) for the git-init / GitHub push sequence.
 
 Battle-tested on a 60,000-word nonfiction title — [YATU: You Are the Upgrade](https://www.amazon.com/dp/B0H38DZDS5), released June 2026 at [yatubook.com](https://yatubook.com) — with 14 illustrations, 95 footnotes, complex back-matter, and a print + Kindle ebook release. Takes a `.docx` manuscript and a cover design and produces the exact files KDP requires — interior PDF, cover wrap PDF, Kindle EPUB — with validation at every stage.
