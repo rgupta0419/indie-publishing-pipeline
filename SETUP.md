@@ -51,7 +51,7 @@ Go to [github.com/new](https://github.com/new) and create a new repository:
 GitHub will show you the exact remote URL after you click Create. Paste those two commands (yours will look like this with your username/repo):
 
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/indie-publishing-pipeline.git
+git remote add origin https://github.com/rgupta0419/indie-publishing-pipeline.git
 git push -u origin main
 ```
 
@@ -97,7 +97,7 @@ authors:
 title: "Indie Publishing Pipeline"
 version: 1.0.0
 date-released: 2026-06-XX
-url: "https://github.com/YOUR-USERNAME/indie-publishing-pipeline"
+url: "https://github.com/rgupta0419/indie-publishing-pipeline"
 ```
 
 ### Announce it

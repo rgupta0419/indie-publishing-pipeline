@@ -24,7 +24,7 @@ The answer turned out to be: hard in fifteen specific ways nobody writes about u
 
 ## The book
 
-[YATU: You Are the Upgrade](https://a.co/d/0g0sEWuI) is a 60,000-word work of contemporary spirituality — fourteen illustrations, ninety-five footnotes, a Sanskrit glossary, lineage acknowledgments, the works. It launched on Amazon (paperback and Kindle) and at [yatubook.com](https://yatubook.com) in June 2026.
+[YATU: You Are the Upgrade](https://www.amazon.com/dp/B0H38DZDS5) is a 60,000-word work of contemporary spirituality — fourteen illustrations, ninety-five footnotes, a Sanskrit glossary, lineage acknowledgments, the works. It launched on Amazon (paperback and Kindle) and at [yatubook.com](https://yatubook.com) in June 2026.
 
 Every script in this repository solved a problem that came up during that production. None of them existed when I started. By the time the book went live, they were a complete pipeline. I am releasing them because every indie author after me is going to hit the same problems, and the open web does not document most of these issues anywhere I could find.
 
@@ -297,7 +297,7 @@ I am releasing it because the alternative is hundreds of indie authors paying $5
 
 The MIT license means you can use this commercially. You can fork it. You can rip out parts you don't need and ignore the rest. You can publish your book this week and never tell anyone where the scripts came from. That is fine.
 
-If you do find the toolkit useful and want to share back, the [GitHub issues](https://github.com/) (when the repo goes public) are open. I am not maintaining this as a product — but pull requests that fix real bugs or add useful parameterization for other books are welcome.
+If you do find the toolkit useful and want to share back, the [GitHub issues](https://github.com/rgupta0419/indie-publishing-pipeline/issues) are open. I am not maintaining this as a product — but pull requests that fix real bugs or add useful parameterization for other books are welcome.
 
 ---
 
@@ -307,7 +307,7 @@ YATU: You Are the Upgrade is a 60,000-word work of contemporary spirituality. It
 
 If the framing speaks to you:
 
-- [Read the book on Amazon](https://a.co/d/0g0sEWuI) (paperback + Kindle)
+- [Read the book on Amazon](https://www.amazon.com/dp/B0H38DZDS5) (paperback + Kindle)
 - [yatubook.com](https://yatubook.com) — the framework continues there: essays on the Seven Civilizational Organs, the corrected Yuga timeline, and weekly Substack notes
 - [@jyolingapp on X](https://x.com/jyolingapp)
 

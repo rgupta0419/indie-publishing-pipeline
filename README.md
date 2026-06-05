@@ -6,7 +6,7 @@
 >
 > **Forking this and want to push it as your own repo?** See [SETUP.md](./SETUP.md) for the git-init / GitHub push sequence.
 
-Battle-tested on a 60,000-word nonfiction title — [YATU: You Are the Upgrade](https://a.co/d/0g0sEWuI), released June 2026 at [yatubook.com](https://yatubook.com) — with 14 illustrations, 95 footnotes, complex back-matter, and a print + Kindle ebook release. Takes a `.docx` manuscript and a cover design and produces the exact files KDP requires — interior PDF, cover wrap PDF, Kindle EPUB — with validation at every stage.
+Battle-tested on a 60,000-word nonfiction title — [YATU: You Are the Upgrade](https://www.amazon.com/dp/B0H38DZDS5), released June 2026 at [yatubook.com](https://yatubook.com) — with 14 illustrations, 95 footnotes, complex back-matter, and a print + Kindle ebook release. Takes a `.docx` manuscript and a cover design and produces the exact files KDP requires — interior PDF, cover wrap PDF, Kindle EPUB — with validation at every stage.
 
 ---
 
@@ -121,7 +121,7 @@ MIT. Free for commercial use. Attribution requested but not required.
 
 ## Origin
 
-This toolkit was extracted from the production pipeline of [YATU: You Are the Upgrade](https://a.co/d/0g0sEWuI), a 2026 nonfiction book published via Kindle Direct Publishing. The original author maintains a private fork for his own books; this public release is the same code with all book-specific content (titles, author names, ISBNs, manuscript-specific text patterns) replaced with parameterized inputs.
+This toolkit was extracted from the production pipeline of [YATU: You Are the Upgrade](https://www.amazon.com/dp/B0H38DZDS5), a 2026 nonfiction book published via Kindle Direct Publishing. The original author maintains a private fork for his own books; this public release is the same code with all book-specific content (titles, author names, ISBNs, manuscript-specific text patterns) replaced with parameterized inputs.
 
 The full story of the production — what went wrong, what got fixed, what costs were avoided, and why this is being released — is in [STORY.md](./STORY.md). It's long, but if you're an indie author trying to decide between Reedsy and the vanity-press path, it's worth reading before you commit.
 
@@ -129,7 +129,7 @@ If the toolkit helps you publish your own book, that's the only thanks needed. I
 
 ## Useful links
 
-- **The book this came from:** [YATU on Amazon](https://a.co/d/0g0sEWuI) (paperback + Kindle)
+- **The book this came from:** [YATU on Amazon](https://www.amazon.com/dp/B0H38DZDS5) (paperback + Kindle)
 - **The author's site:** [yatubook.com](https://yatubook.com)
 - **Substack:** [jyolingapp.substack.com](https://jyolingapp.substack.com)
 - **X / Twitter:** [@jyolingapp](https://x.com/jyolingapp)
